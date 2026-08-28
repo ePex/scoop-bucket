@@ -1,0 +1,22 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ePex/cloudtui/releases/download/v0.4.0/cloudtui_0.4.0_windows_amd64.zip",
+            "bin": [
+                "cloudtui.exe"
+            ],
+            "hash": "959668cfa4199c763801fa3fa703bcc517f7584e80e12598e5f2566795616b73"
+        },
+        "arm64": {
+            "url": "https://github.com/ePex/cloudtui/releases/download/v0.4.0/cloudtui_0.4.0_windows_arm64.zip",
+            "bin": [
+                "cloudtui.exe"
+            ],
+            "hash": "dc5a93d8dc4c1dcb0238521c0faa625ae1f8fd7436b3148075e29628a9ea961b"
+        }
+    },
+    "homepage": "https://github.com/ePex/cloudtui",
+    "license": "MIT",
+    "description": "A terminal UI for managing cloud resources."
+}
