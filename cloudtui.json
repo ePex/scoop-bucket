@@ -1,19 +1,19 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ePex/cloudtui/releases/download/v0.4.1/cloudtui_0.4.1_windows_amd64.zip",
+            "url": "https://github.com/ePex/cloudtui/releases/download/v0.4.2/cloudtui_0.4.2_windows_amd64.zip",
             "bin": [
                 "cloudtui.exe"
             ],
-            "hash": "27f38bce7f43f203bdc6b1ac33961a6eac17b87a2e0cf1e367ec55a9ec804215"
+            "hash": "a7b5b0fd54480aeb116ef73fba42765dcf1a7628bb1727f178cfc314df3746f0"
         },
         "arm64": {
-            "url": "https://github.com/ePex/cloudtui/releases/download/v0.4.1/cloudtui_0.4.1_windows_arm64.zip",
+            "url": "https://github.com/ePex/cloudtui/releases/download/v0.4.2/cloudtui_0.4.2_windows_arm64.zip",
             "bin": [
                 "cloudtui.exe"
             ],
-            "hash": "19584f2eec926a46f3c0b3d6dbff1e9ed935ff5a8085dd65c7bc3c0996a7672f"
+            "hash": "d92a0ea46c867c8d30a508cab8e93dc7bc70e0178341baf3e0922977369e2382"
         }
     },
     "homepage": "https://github.com/ePex/cloudtui",
